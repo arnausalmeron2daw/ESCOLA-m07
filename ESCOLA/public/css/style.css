@@ -1,0 +1,115 @@
+* {
+
+    background-color: rgb(133, 98, 139);
+
+}
+
+h1 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+    border: 1px solid white;
+    background-image: url(/public/img/rayo.jpg);
+    background-repeat: no-repeat;
+    object-fit: fill;
+    background-size: 100%;
+    color: white;
+
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+
+    background-size: 100%;
+    color: white;
+}
+
+
+
+a {
+
+    /* display: flex;
+    ;
+    justify-content: center;
+    ;
+    align-items: center; */
+    display: flex;
+    margin: 1% auto;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+    border: 1px solid white;
+    background-color: rgb(72, 47, 77);
+    background-image: url(/public/img/rayo.jpg);
+    background-repeat: no-repeat;
+    object-fit: fill;
+    color: white;
+}
+
+li {
+    list-style: none;
+
+
+}
+
+input {
+    display: flex;
+    margin: 1% auto;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+    border: 1px solid white;
+    background-color: rgb(72, 47, 77);
+    background-image: url(/public/img/rayo.jpg);
+    background-repeat: no-repeat;
+    object-fit: fill;
+    background-size: 100%;
+    color: white;
+}
+
+footer {}
+
+ul {
+    display: flex;
+    margin: 1% auto;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+    border: 1px solid white;
+    background-image: url(/public/img/rayo.jpg);
+    background-repeat: no-repeat;
+    object-fit: fill;
+    background-size: 100%;
+    color: white;
+}
+
+button{
+    display: flex;
+    margin: 1% auto;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+    border: 1px solid white;
+    background-color: rgb(72, 47, 77);
+    object-fit: fill;
+    background-size: 100%;
+    color: white;
+}
+
+.breadcrumb ol li {
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Young Serif', serif;
+    color: white;
+
+}
